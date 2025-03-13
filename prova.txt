@@ -1,0 +1,272 @@
+Sono dall'università di Padova, sotto il dipartimento di matematica, mi sono laureato in informatica
+e ho lavorato qui dentro in Accenture, principalmente in Java, sui progetti di evolutive o correttive
+da parte delle banche e di mio ho guardato altre cose, ma in maniera approfondita, ma diciamo
+che ho sviluppato comunque anche in altri linguaggi oltre a Java per progetti esterni che non riguardavano
+nulla con il mio mondo lavorativo.
+Ecco, diciamo che questo è un po' il percorso che ho fatto finora, bene o male.
+Ok, senti, io ti faccio delle domande che per me sono banali ma che mettono al corrente, diciamo.
+Emanuele, tu hai sempre lavorato in team?
+Allora, io lavoravo sì dentro al team del multicanale, però diciamo che ero abituato un po' a lavorare
+tra virgolette da solo, nel senso che mi veniva data, chiamiamola un task, comunque una cosa da fare,
+diciamo un'evolutiva o una correttiva e magari con una deadline di scadenza mi veniva chiesto
+se era possibile farla, qual era il metodo migliore per farla, magari se c'era la possibilità di scegliere
+la metodologia e verificavo la fattibilità della cosa e se stava dentro le tempistiche richieste.
+E poi ovviamente se c'era la possibilità di implementarla, la implementavo io.
+Se invece risultava magari un po' più semplice o comunque avevo delle altre cose che non mi permettevano
+di farla, magari passavo a qualcun altro il compito, insomma.
+Sì, quindi hai evidentemente delle skill di problem determination e problem solving, perché abbiamo lavorato assieme
+su temi che riguardavano la parte di AM lato Java, quindi c'era un attimino da capire un po' come erano strutturate
+le applicazioni dell'home banking e quindi puoi applicare delle fix, fare l'analisi del codice e poi applicare le fix.
+Hai fatto nel tuo percorso documentazione tecnica e barra documentazione funzionale, come si è abituato a lavorare?
+Ricevi la documentazione funzionale, fai documentazione tecnica oppure sviluppi direttamente?
+Allora, per come siamo stati noi abituati a lavorare in multicanale, non ci veniva data
+una documentazione tecnica e non ci veniva data una documentazione funzionale, ci veniva
+semplicemente detto qual era lo scopo finale e magari se c'erano dei prerequisiti e comunque
+le date da rispettare.
+quindi non ho mai lavorato con delle documentazioni diciamo riguardanti dei progetti per poi implementarli.
+Magari comunque qualche documentazione tecnica l'hai vista perché mi ricordo che ci girava
+per esempio Finanza, ci girava quella che per loro era la documentazione tecnica dei servizi
+dei servizi loro, quindi sai che cos'è una documentazione tecnica, nel senso ne hai
+viste ancora?
+Sì, sì, sì, sì, sì, sì, ma sapresti eventualmente scriverle?
+Sì, le ho viste, a dir la verità, per la gran parte le ho sempre trovate un po', boh,
+cioè se non scritte bene causano più caos che altro comunque.
+Purtroppo sì.
+Va bene, insomma, comunque l'importante è che vengano capite da chi deve utilizzarle,
+quello è insomma l'importante, cioè se poi di solito la buona norma prevederebbe che
+si scrive documentazione di quello che si fa, però qui non c'è mai stata.
+Eh, lo so, infatti era un po' quello anche il problema di una persona nuova che entra nel
+mondo afast e deve capire come fare le cose senza un minimo di documentazione.
+Sì, non c'era, oddio, ho fatto io qualcosa di documentazione perché magari mi è stato
+chiesto di dire, di implementare delle guide su come fare determinate cose, quindi ho buttato
+giù io della documentazione che spiegasse passo passo a qualcuno come fare determinate cose.
+Ok.
+Viene utilizzata, non viene utilizzata, non lo so, me l'avevano chiesto, qualcuno ho visto
+che l'ha utilizzata, qualcuno con successo, qualcuno no, però insomma.
+Ok, esperienze di AMD ne abbiamo già parlato.
+Come sei abituato in sostanza ad organizzare la tua giornata lavorativa a livello di risoluzione
+di ticketing, pianificazione dell'attività, degli incontri, eccetera?
+Allora, nel senso io preferisco dire, va bene, devo lavorare su questa cosa qua, so che mi
+impegnerà a tempo, io se riesco cerco ovviamente di non avere molte spezzettature diciamo all'interno
+della giornata, se devo lavorare un task preferisco farlo nel modo più lineare possibile, perché
+poi fare lo switch di testa da una cosa all'altra non è mai facile, almeno dal mio punto di
+vista, poi non so, a qualche altro punto di vista sia più semplice, nel mio non lo è.
+Semplice non lo è mai, a volte il multitasking, per la mia esperienza personale, rischia di
+essere addirittura deleterio, ma credo che io tendo a essere abbastanza single thread
+da questo punto di vista.
+Secondo me basta sapersi pianificare, organizzarsi la giornata e le attività e si riesce a fare
+tutto.
+Sì, sì, sì, beh, assolutamente, oddio, finora quello che mi avevano chiesto di fare,
+nei tempi che mi avevano chiesto di fare, li avevo fatti, insomma, poi è capitato che
+non ho rispettato alcune cose, ma erano cause che non dipendevano più per lui.
+Arriviamo nel succo simpatico della questione, gestione, gestione, come sei, gestione dello
+stress, scadenze proibitive, sei abituato, se non ricordo male, a queste cose?
+Come gestisci anche lo stress lavorativo?
+Ti dirò, Andrea, che devo essere sincero, come scadenze di quelle da dire devo farmi
+i sabati, le domeniche, attaccato, perché se no non ci arrivo, devo essere sincero, non
+ne ho mai avute, se non sotto il periodo di implementazione di Zurich, in cui c'è stata
+una corsa, una maratona per arrivare alle date che si volevano, però devo essere sincero,
+nel resto non ho mai visto questo grande carico di lavoro oltre, diciamo, le classiche ore che
+si dovrebbero fare o che comunque una testa può permettersi di mettersi lì al 100% o
+quasi.
+Non so voi con che idea abbiate di lavorare.
+Dopo ti do qualche indicazione sul progetto, comunque se hai altre domande, chiaramente io
+sono disposto, siamo qua apposta per rispondere.
+Io mi sono segnato giusto una scaletta, diciamo, di cose da chiedere, che chiedo in genere,
+spero che vadano bene anche per Emanuele.
+Tu sei abituato, se non ricordo male, anche a prioritizzare i task in autonomia?
+Allora, sì, diciamo che io tendo a, se ho due o tre task, prioritizzo quello che io ritengo
+necessario, che magari ha la priorità su un altro, perché magari ha una scadenza prima
+oppure più importante rispetto all'altro.
+Poi di solito, se mi arrivano task che per me sono equi, di solito andavo sopra da qualcuno
+come Davide o come qualcun altro, andavo a chiedere, ma secondo te, qual è qua quello
+da portare a casa prima rispetto agli altri, se vedevo che all'interno delle mie otto ore
+di lavoro, o comunque all'interno di quello che potevo dare in una giornata, non riuscivo
+a starci tutto.
+Ok.
+Tu, come luogo di lavoro, tu hai sempre lavorato a Padova, in Padova Secca, giusto?
+Sì, il primo anno, via Transcaldino.
+Sì, esatto, esatto, ho sempre lavorato lì, il primo anno ero perennemente lì, quindi tutti
+i giorni, poi ho, dal Covid in poi, diciamo, cominciato a lavorare più in full remote, diciamo
+full remote, però andavo su qualche volta, una volta a settimana o cose così, insomma.
+Allora, il nostro ufficio è a Verona, tu eventualmente avresti problemi a venire a Verona
+qualche volta almeno?
+Qualche volta potrebbe anche non essere un problema, devo essere sincero, non so quanta
+distanza adesso ci sia da casa mia, perché comunque io sto più o meno nella zona dei
+Colli Eugani.
+Ok, sì, comunque, se non ricordo male, per arrivare a Padova, cos'è, un'oretta e mezza?
+Io ho circa un'ora per arrivare a Padova, di solito.
+Ok.
+Disponibilità anche eventualmente ad andare dal cliente, se fosse Novara, Milano, cioè
+ovviamente non in maniera continuativa, ma Novara, Milano.
+Noi per esempio, per dirti, lunedì, non è stato lunedì, non è stato ieri, no, ieri
+siamo andati a Novara a conoscere il cliente per la prima volta, ma oggi abbiamo, siamo
+andati avanti a fare, diciamo, gli altri incontri da remoto, quindi abbiamo fatto solamente
+il primo kickoff iniziale in presenza e poi per il resto, stiamo pianificando di farli
+tutti da remoto, ma qualora, insomma, ci fosse bisogno di andare a Novara, sarebbe un problema
+per te?
+Non credo, se è una cosa sporadica, come presumo sia, io non credo ci siano di questi problemi,
+insomma.
+Ok.
+Disponibilità per eventuale presidio, quindi presidio dalle 8 del mattino e ripetere
+reperibilità con anche eventuali reperibilità notturne, weekend, eccetera?
+Io lì in Afast l'ho, tra virgolette, rifiutata perché, non so, adesso non mi entusiasmava
+la cosa, nel senso che c'era altra gente che era più interessata di me a farla, ho detto
+va bene, se volete farla voi, fatela voi, non è che mi interessasse, diciamo.
+Nel caso dovesse esserci a farla, la farò, non la vedo come un grosso problema, voglio
+dire, cioè non è che sia uno scoglio.
+Ok, ok.
+Emanuele, io non ho domande tecniche per Marco perché ci ho già lavorato insieme, so che comunque
+la parte Java è preparato, non so se tu hai qualche altro tipo di domanda.
+Ciao Marco, non ho capito, ma c'è anche altre competenze tecniche, ma anche il .NET hai visto
+in maniera autonoma?
+No, .NET non l'ho mai visto, quindi stai parlando sempre comunque di un back-end, però fatto
+con C Sharp, non l'ho mai preso in mano, devo essere onesto, l'ho visto, l'ho visto, ma
+non l'ho mai preso in mano e ho utilizzato .NET.
+Ok, ok, ok, ok.
+L'ho già detto, ma tu saresti libero da quando?
+Di preciso non lo so nemmeno io, perché il mio capo area mi ha detto che vorrebbero
+liberarmi a fine febbraio, lui aveva detto che stava tentando di tirare per tenermi di
+più, però devo essere sincero, non te lo so dire nemmeno lì.
+Ma quando ti hanno detto che volevano liberarti, dopo tu hai chiesto per dove, cioè non ti
+hanno dato indicazioni su che fine avresti fatto?
+No, me l'hanno detto dall'oggi al domani, perché presumo che la sostanza è che non ci
+siano più soldi e quindi stanno tentando di tagliare il più possibile, uno di quelli che
+tagliano sono io, perché restavo diciamo solo a fare le cose magari che venivano su
+un po' più complesse e a quanto pare il carico di lavoro è diminuito e quindi mi, tra virgolette,
+tirano via dal progetto e tanto la M l'hanno mandato giù a Napoli, quindi non c'è più
+tanto carico di lavoro e le cose difficoltose le fa un altro e quindi diciamo che io ero al
+momento un po' in più nel budget.
+Marco poi immagino…
+Maieri…
+Maieri…
+Maieri lì è l'occorrenza per fix o attività evolutive?
+Allora io principalmente ero per attività evolutive fix sul codice, ma diciamo quando
+si presentavano cose che erano relativamente un po' più complesse di una semplice bug fixing
+oppure di una evolutiva abbastanza semplice. Eravamo di solito io e Zambonin che comunque
+Andrea conosce, che facevamo queste cose qua. Mentre per quanto riguarda le cose un
+po' più semplici, prima c'erano due o tre ragazzi, adesso due già dall'anno scorso
+e l'anno prima ancora li hanno mandati a qualche altra parte. E' rimasto uno che comunque
+è in carico anche delle altre cose, tra cui i rilasci che tengono. E diciamo che la parte
+D o di M, che sarebbe il classico AM di Afast nel multicanale, quello abbastanza semplice,
+per il 90% delle volte, l'hanno girato su Napoli. Quindi la sostanza è che se non arriva
+più niente di complesso in cui serviva il mio effort, diciamo, allora hanno pensato
+di tirarmi via, visto che non c'è budget. È quello che ho capito.
+Magari sarei anche stufo di fare la stessa cosa da anni e anni.
+No, allora, devo essere sincero, sì da un certo punto di vista, ma più che altro perché
+non arrivava più niente su di interessante. Cioè cominciavo un po' anche io dal mio punto
+di vista un po' a stufarmi, perché comunque le tecnologie non erano eccezionali da quel
+punto di vista lì. Ormai nell'ambiente mi ero preso a fare le cose, comunque ero
+abbastanza veloce. E il fatto che non arrivasse più niente in cui potessi, tra virgolette,
+divertirmi, sì, non era un bel periodo nemmeno per me. Va bene, ci può stare, capisco la
+scelta da parte loro e guardandola da esterno sono d'accordo.
+hai qualche domanda, curiosità su cui ti posso, diciamo, rispondere riguardo al progetto?
+Allora, sì, se vuoi un po' Andrea descrivermi qual è il progetto un po' che avete in carico,
+insomma, per capire un attimino anche voi.
+Allora, come Accenture abbiamo vinto una gara presso il banco BPM, una gara che si suddivide
+in diversi lotti. Il lotto in cui siamo interessati comprende otto applicazioni nell'ambito finanza
+che spaziano da tecnologie mainframe e tecnologie dipartimentali come il Java, come parte Java,
+e parte .net. Abbiamo, sono otto applicazioni, quindi stiamo cercando di capire, diciamo, la dimensione,
+il dimensionamento e il numero, diciamo, delle, il numero dei ticket e tutto quello che ci serve
+in sostanza per iniziare a staffare i vari team. Abbiamo fatto una proposta al cliente,
+abbiamo iniziato con un incontro di kickoff ieri e adesso stiamo iniziando con i primi incontri
+di KT tecnico perché, in sostanza, abbiamo vinto questa gara, quindi abbiamo un periodo di KT
+di quattro mesi per queste otto applicazioni, quindi fino a fine giugno e poi da partire dal primo
+di luglio diventiamo completamente, diciamo, operativi per la parte di AM.
+Ok.
+E abbiamo, se non ricordo male, Emanuele, anche delle microevolutive, abbiamo un set di microevolutive.
+Correggimi se sbaglio, Emanuele.
+Sì, è corretto, adesso capiremo. Ma te, Marco, dove ti piacerebbe lavorare?
+Su un ambito AM o progetti?
+Stavo pensando un pochettino anche qui, comunque adesso avendo qualche proposta,
+comunque le sto valutando un po' tutte.
+in ambito AM, quindi adesso non so quanto AM abbiate su il carico che avete qui e quindi
+si presume che le applicazioni siano già...
+Il primo periodo è 150% AM, sarà il primo anno dove impazziremo a analizzare, capire,
+acquisire know-how delle funzionalità, delle applicazioni, documentare il codice, andare
+ad analizzare anche cose che non ci hanno spiegato e dover impazzire a sistemare errori o segnalazioni
+che ci arrivano e che magari non abbiamo visto durante il KT il passaggio di consegne.
+Sarà un anno così, non te lo nascondo, ma sarà così.
+Quella è la verità.
+Magari nel mentre ci sarà qualche piccola microevolutiva, chi lo sa, forse anche qualcuna un po' più grossa,
+ma lì dovremmo strutturarci anche come team, come gruppo per soddisfare queste necessità.
+Però ecco, lo zoccolo duro deve capire, portarsi a casa più documentazione, più analisi
+e acquisire le più competenze possibili. Anche in autonomia, andiamo in qualche linea guida, ma dopo
+bisogna un attimino camminare con le proprie gambe a volte, non bisogna aspettare.
+Adesso non siamo nella posizione dove c'è una persona che ti dice, guarda, fai questa cosa qua, fai quell'altra,
+oppure c'è questo progetto da fare, ti do questa analisi e guarda, provo a vedere.
+Cioè, bisogna anche un attimo essere smart in questa fase qua e sapere che come obiettivo è portarsi a casa
+la competenza di quella particolare cosa e bisogna mettersi lì e stavarsi sulle maniche e lavorarci.
+Il primo periodo sarà così, sarà un po' complicato per tutti, ecco.
+Sì, quindi tu dici che comunque il primo periodo che racchiudi nell'idea di un anno
+sarà quello di capire, diciamo, le applicazioni che verranno in carico e farne dei bug fixing.
+Sì, ci saranno non solo bug fixing, ma anche dare delle risposte funzionali in ambito finanziario
+e in base all'applicazione che ci faranno seguire.
+Quindi la parte difficile è anche quella di acquisire non solo competenze tecniche, perché magari, non so,
+c'è una fase che va in errore, analizzi logo e vedere perché la sistemi è morta, ma capire tutto il contesto che ci sta dietro
+di perché quello che ha mandato quel dato lì è mandato così e cosa nel frattempo non ha funzionato,
+oppure dare una giustificazione anche funzionale della cosa.
+non so, ci arriverà la segnalazione perché vedo dieci a posto di otto e allora bisognerà
+riuscire ad acquisire tutte le varie motivazioni e il perché un processo ha funzionato in un certo modo.
+Quindi non è solo l'attesa dell'errore, ma è anche analizzare quello che funziona e che non si spacca
+e capire perché fa così, per riuscire poi a rispondere.
+Quindi comunque ad acquisire conoscenza del codice che arriva su cui dobbiamo, tra virgolette, lavorare e farne capatini.
+Esatto, in questo momento nessuno sa nulla, quindi partiamo tutti da zar e dovremmo mettere insomma in piedi una squadra e qualche esterno che già lavora sul cliente forse lo prendiamo.
+Adesso capiremo termini di Compagnia Bella e per il resto insomma dobbiamo arrangiarci.
+Ok, e come data di partenza dei lavori, cosa avevate in mente voi?
+Abbiamo messaggio di consegna e questi quattro mesi si parte a luglio.
+Luglio agosto saranno dei mesi caldi, oltre che riguarda il clino ma anche la morata.
+Va bene, va bene, ho capito un po' anche voi il progetto.
+Bene.
+Cioè, io ho massima trasparenza, non è che voglio raccontarti le cose finte oppure questa è la verità.
+Quindi insomma ci sarà un po' da impazzire il primo periodo come in tutte le partenze.
+E man mano che impareremo sarà sempre più facile.
+Sì, sì, beh, certo, certo, ovviamente all'inizio c'è sempre uno scalino più grande da dover saltare.
+No, io non ho altre domande Emanuele, non so tu.
+No, no, anch'io anche perché è un'altra cosa per avanti, però ci riaggiorniamo.
+Se tu Marco hai news o che vuoi approfondire ulteriormente, scrivici senza problemi.
+Poi intanto noi stiamo sondando il terreno un po' di qua e di là.
+Appena avremo anche carta bianca su capire come procedere, capiremo anche come muoverci anche sui vari team.
+Insomma, dobbiamo finire tutti gli incontri con i clienti, quindi non sappiamo ancora quanto sarà il peso effettivo che ci servirà di competenze già,
+piuttosto che di .NET o di COBOL, perché non abbiamo ancora chiara questa visione.
+Finiremo gli incontri diciamo a metà della settimana prossima, tempo di organizzare un po' le idee.
+Quindi diciamo che entro il fine mese tendenzialmente avremo una fotografia più chiara.
+Però intanto stiamo sondando un po' di qua e di là.
+Sì, sì, va bene. Capisco pienamente.
+Ecco.
+Però, insomma, massima trasparenza se già ci diciamo che non mi interessa perché voglio nessun problema.
+È importante essere chiari fin da subito perché, insomma, serve portare anche a bordo persone motivate e che hanno voglia.
+Anche se partiamo già con qualcosa che non piace fare, non sarebbe produttivo per nessuna delle due parti, no?
+Certo.
+No, al momento dico non escludo, non sto escludendo nessuna strada, nel senso che non ho ancora nemmeno io le idee chiare,
+anche perché onestamente non me le hanno rese chiare, nel senso che non sanno nemmeno quando dovrò terminare in linea teorica il mio rapporto con il mio team.
+Certo.
+Quindi, insomma, ci aggiorneremo entrambi, dai, quando avremo entrambi qualche informazione in più ci rinagliamo a vicenda.
+Sì, sì, assolutamente non c'è problema.
+Perfetto.
+Perfetto.
+Grazie mille intanto.
+Grazie Marco.
+Va bene, Manuel.
+È stato un piacere.
+Altrettanto, Andrea.
+Ciao, ciao, ciao, ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.
+Ciao.

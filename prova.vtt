@@ -1,0 +1,818 @@
+WEBVTT
+
+00:00.000 --> 00:06.160
+Sono dall'università di Padova, sotto il dipartimento di matematica, mi sono laureato in informatica
+
+00:06.160 --> 00:21.200
+e ho lavorato qui dentro in Accenture, principalmente in Java, sui progetti di evolutive o correttive
+
+00:21.200 --> 00:37.300
+da parte delle banche e di mio ho guardato altre cose, ma in maniera approfondita, ma diciamo
+
+00:37.300 --> 00:45.460
+che ho sviluppato comunque anche in altri linguaggi oltre a Java per progetti esterni che non riguardavano
+
+00:45.460 --> 00:47.820
+nulla con il mio mondo lavorativo.
+
+00:51.200 --> 00:59.600
+Ecco, diciamo che questo è un po' il percorso che ho fatto finora, bene o male.
+
+01:00.340 --> 01:06.680
+Ok, senti, io ti faccio delle domande che per me sono banali ma che mettono al corrente, diciamo.
+
+01:07.300 --> 01:09.220
+Emanuele, tu hai sempre lavorato in team?
+
+01:11.440 --> 01:20.740
+Allora, io lavoravo sì dentro al team del multicanale, però diciamo che ero abituato un po' a lavorare
+
+01:20.740 --> 01:32.140
+tra virgolette da solo, nel senso che mi veniva data, chiamiamola un task, comunque una cosa da fare,
+
+01:32.280 --> 01:40.720
+diciamo un'evolutiva o una correttiva e magari con una deadline di scadenza mi veniva chiesto
+
+01:40.720 --> 01:46.700
+se era possibile farla, qual era il metodo migliore per farla, magari se c'era la possibilità di scegliere
+
+01:46.700 --> 01:56.020
+la metodologia e verificavo la fattibilità della cosa e se stava dentro le tempistiche richieste.
+
+01:56.160 --> 01:59.740
+E poi ovviamente se c'era la possibilità di implementarla, la implementavo io.
+
+01:59.840 --> 02:07.000
+Se invece risultava magari un po' più semplice o comunque avevo delle altre cose che non mi permettevano
+
+02:07.000 --> 02:10.560
+di farla, magari passavo a qualcun altro il compito, insomma.
+
+02:11.140 --> 02:17.700
+Sì, quindi hai evidentemente delle skill di problem determination e problem solving, perché abbiamo lavorato assieme
+
+02:17.700 --> 02:30.240
+su temi che riguardavano la parte di AM lato Java, quindi c'era un attimino da capire un po' come erano strutturate
+
+02:30.240 --> 02:37.880
+le applicazioni dell'home banking e quindi puoi applicare delle fix, fare l'analisi del codice e poi applicare le fix.
+
+02:38.780 --> 02:50.060
+Hai fatto nel tuo percorso documentazione tecnica e barra documentazione funzionale, come si è abituato a lavorare?
+
+02:50.520 --> 02:55.800
+Ricevi la documentazione funzionale, fai documentazione tecnica oppure sviluppi direttamente?
+
+02:55.800 --> 03:03.280
+Allora, per come siamo stati noi abituati a lavorare in multicanale, non ci veniva data
+
+03:03.280 --> 03:08.680
+una documentazione tecnica e non ci veniva data una documentazione funzionale, ci veniva
+
+03:08.680 --> 03:16.880
+semplicemente detto qual era lo scopo finale e magari se c'erano dei prerequisiti e comunque
+
+03:16.880 --> 03:18.140
+le date da rispettare.
+
+03:18.140 --> 03:27.020
+quindi non ho mai lavorato con delle documentazioni diciamo riguardanti dei progetti per poi implementarli.
+
+03:27.080 --> 03:31.640
+Magari comunque qualche documentazione tecnica l'hai vista perché mi ricordo che ci girava
+
+03:31.640 --> 03:38.620
+per esempio Finanza, ci girava quella che per loro era la documentazione tecnica dei servizi
+
+03:38.620 --> 03:43.860
+dei servizi loro, quindi sai che cos'è una documentazione tecnica, nel senso ne hai
+
+03:43.860 --> 03:44.500
+viste ancora?
+
+03:44.560 --> 03:48.380
+Sì, sì, sì, sì, sì, sì, ma sapresti eventualmente scriverle?
+
+03:49.880 --> 03:59.100
+Sì, le ho viste, a dir la verità, per la gran parte le ho sempre trovate un po', boh,
+
+03:59.840 --> 04:03.460
+cioè se non scritte bene causano più caos che altro comunque.
+
+04:03.460 --> 04:04.900
+Purtroppo sì.
+
+04:06.340 --> 04:11.920
+Va bene, insomma, comunque l'importante è che vengano capite da chi deve utilizzarle,
+
+04:12.060 --> 04:16.480
+quello è insomma l'importante, cioè se poi di solito la buona norma prevederebbe che
+
+04:16.480 --> 04:20.740
+si scrive documentazione di quello che si fa, però qui non c'è mai stata.
+
+04:21.300 --> 04:26.540
+Eh, lo so, infatti era un po' quello anche il problema di una persona nuova che entra nel
+
+04:26.540 --> 04:32.120
+mondo afast e deve capire come fare le cose senza un minimo di documentazione.
+
+04:32.120 --> 04:37.740
+Sì, non c'era, oddio, ho fatto io qualcosa di documentazione perché magari mi è stato
+
+04:37.740 --> 04:43.520
+chiesto di dire, di implementare delle guide su come fare determinate cose, quindi ho buttato
+
+04:43.520 --> 04:50.040
+giù io della documentazione che spiegasse passo passo a qualcuno come fare determinate cose.
+
+04:51.660 --> 04:51.900
+Ok.
+
+04:52.120 --> 04:56.300
+Viene utilizzata, non viene utilizzata, non lo so, me l'avevano chiesto, qualcuno ho visto
+
+04:56.300 --> 04:59.880
+che l'ha utilizzata, qualcuno con successo, qualcuno no, però insomma.
+
+04:59.880 --> 05:04.940
+Ok, esperienze di AMD ne abbiamo già parlato.
+
+05:05.680 --> 05:13.200
+Come sei abituato in sostanza ad organizzare la tua giornata lavorativa a livello di risoluzione
+
+05:13.200 --> 05:19.100
+di ticketing, pianificazione dell'attività, degli incontri, eccetera?
+
+05:19.100 --> 05:30.020
+Allora, nel senso io preferisco dire, va bene, devo lavorare su questa cosa qua, so che mi
+
+05:30.020 --> 05:40.580
+impegnerà a tempo, io se riesco cerco ovviamente di non avere molte spezzettature diciamo all'interno
+
+05:40.580 --> 05:46.780
+della giornata, se devo lavorare un task preferisco farlo nel modo più lineare possibile, perché
+
+05:46.780 --> 05:54.640
+poi fare lo switch di testa da una cosa all'altra non è mai facile, almeno dal mio punto di
+
+05:54.640 --> 05:59.380
+vista, poi non so, a qualche altro punto di vista sia più semplice, nel mio non lo è.
+
+05:59.380 --> 06:05.260
+Semplice non lo è mai, a volte il multitasking, per la mia esperienza personale, rischia di
+
+06:05.260 --> 06:13.380
+essere addirittura deleterio, ma credo che io tendo a essere abbastanza single thread
+
+06:13.380 --> 06:14.560
+da questo punto di vista.
+
+06:15.240 --> 06:21.740
+Secondo me basta sapersi pianificare, organizzarsi la giornata e le attività e si riesce a fare
+
+06:21.740 --> 06:22.100
+tutto.
+
+06:22.100 --> 06:29.220
+Sì, sì, sì, beh, assolutamente, oddio, finora quello che mi avevano chiesto di fare,
+
+06:29.320 --> 06:35.600
+nei tempi che mi avevano chiesto di fare, li avevo fatti, insomma, poi è capitato che
+
+06:35.600 --> 06:41.420
+non ho rispettato alcune cose, ma erano cause che non dipendevano più per lui.
+
+06:41.420 --> 06:47.980
+Arriviamo nel succo simpatico della questione, gestione, gestione, come sei, gestione dello
+
+06:47.980 --> 06:55.000
+stress, scadenze proibitive, sei abituato, se non ricordo male, a queste cose?
+
+06:56.300 --> 06:59.440
+Come gestisci anche lo stress lavorativo?
+
+07:00.800 --> 07:07.220
+Ti dirò, Andrea, che devo essere sincero, come scadenze di quelle da dire devo farmi
+
+07:07.220 --> 07:12.100
+i sabati, le domeniche, attaccato, perché se no non ci arrivo, devo essere sincero, non
+
+07:12.100 --> 07:18.660
+ne ho mai avute, se non sotto il periodo di implementazione di Zurich, in cui c'è stata
+
+07:18.660 --> 07:29.500
+una corsa, una maratona per arrivare alle date che si volevano, però devo essere sincero,
+
+07:29.560 --> 07:37.540
+nel resto non ho mai visto questo grande carico di lavoro oltre, diciamo, le classiche ore che
+
+07:37.540 --> 07:43.120
+si dovrebbero fare o che comunque una testa può permettersi di mettersi lì al 100% o
+
+07:43.120 --> 07:43.520
+quasi.
+
+07:44.620 --> 07:50.620
+Non so voi con che idea abbiate di lavorare.
+
+07:51.060 --> 07:58.940
+Dopo ti do qualche indicazione sul progetto, comunque se hai altre domande, chiaramente io
+
+07:58.940 --> 08:01.920
+sono disposto, siamo qua apposta per rispondere.
+
+08:01.920 --> 08:08.080
+Io mi sono segnato giusto una scaletta, diciamo, di cose da chiedere, che chiedo in genere,
+
+08:08.220 --> 08:10.980
+spero che vadano bene anche per Emanuele.
+
+08:12.020 --> 08:17.620
+Tu sei abituato, se non ricordo male, anche a prioritizzare i task in autonomia?
+
+08:17.620 --> 08:29.760
+Allora, sì, diciamo che io tendo a, se ho due o tre task, prioritizzo quello che io ritengo
+
+08:29.760 --> 08:34.400
+necessario, che magari ha la priorità su un altro, perché magari ha una scadenza prima
+
+08:34.400 --> 08:36.600
+oppure più importante rispetto all'altro.
+
+08:37.780 --> 08:43.640
+Poi di solito, se mi arrivano task che per me sono equi, di solito andavo sopra da qualcuno
+
+08:43.640 --> 08:51.300
+come Davide o come qualcun altro, andavo a chiedere, ma secondo te, qual è qua quello
+
+08:51.300 --> 08:56.160
+da portare a casa prima rispetto agli altri, se vedevo che all'interno delle mie otto ore
+
+08:56.160 --> 08:59.860
+di lavoro, o comunque all'interno di quello che potevo dare in una giornata, non riuscivo
+
+08:59.860 --> 09:00.620
+a starci tutto.
+
+09:02.620 --> 09:03.100
+Ok.
+
+09:05.620 --> 09:11.440
+Tu, come luogo di lavoro, tu hai sempre lavorato a Padova, in Padova Secca, giusto?
+
+09:11.440 --> 09:17.320
+Sì, il primo anno, via Transcaldino.
+
+09:18.860 --> 09:26.900
+Sì, esatto, esatto, ho sempre lavorato lì, il primo anno ero perennemente lì, quindi tutti
+
+09:26.900 --> 09:34.960
+i giorni, poi ho, dal Covid in poi, diciamo, cominciato a lavorare più in full remote, diciamo
+
+09:34.960 --> 09:40.900
+full remote, però andavo su qualche volta, una volta a settimana o cose così, insomma.
+
+09:40.900 --> 09:46.340
+Allora, il nostro ufficio è a Verona, tu eventualmente avresti problemi a venire a Verona
+
+09:46.340 --> 09:47.540
+qualche volta almeno?
+
+09:50.120 --> 09:55.240
+Qualche volta potrebbe anche non essere un problema, devo essere sincero, non so quanta
+
+09:55.240 --> 09:59.120
+distanza adesso ci sia da casa mia, perché comunque io sto più o meno nella zona dei
+
+09:59.120 --> 09:59.820
+Colli Eugani.
+
+09:59.820 --> 10:08.300
+Ok, sì, comunque, se non ricordo male, per arrivare a Padova, cos'è, un'oretta e mezza?
+
+10:08.620 --> 10:11.480
+Io ho circa un'ora per arrivare a Padova, di solito.
+
+10:12.400 --> 10:12.660
+Ok.
+
+10:12.660 --> 10:24.140
+Disponibilità anche eventualmente ad andare dal cliente, se fosse Novara, Milano, cioè
+
+10:24.140 --> 10:27.980
+ovviamente non in maniera continuativa, ma Novara, Milano.
+
+10:27.980 --> 10:38.800
+Noi per esempio, per dirti, lunedì, non è stato lunedì, non è stato ieri, no, ieri
+
+10:38.800 --> 10:44.460
+siamo andati a Novara a conoscere il cliente per la prima volta, ma oggi abbiamo, siamo
+
+10:44.460 --> 10:51.100
+andati avanti a fare, diciamo, gli altri incontri da remoto, quindi abbiamo fatto solamente
+
+10:51.100 --> 10:57.080
+il primo kickoff iniziale in presenza e poi per il resto, stiamo pianificando di farli
+
+10:57.080 --> 11:02.120
+tutti da remoto, ma qualora, insomma, ci fosse bisogno di andare a Novara, sarebbe un problema
+
+11:02.120 --> 11:02.560
+per te?
+
+11:03.880 --> 11:10.460
+Non credo, se è una cosa sporadica, come presumo sia, io non credo ci siano di questi problemi,
+
+11:10.540 --> 11:10.840
+insomma.
+
+11:12.420 --> 11:12.780
+Ok.
+
+11:14.360 --> 11:20.840
+Disponibilità per eventuale presidio, quindi presidio dalle 8 del mattino e ripetere
+
+11:21.100 --> 11:25.520
+reperibilità con anche eventuali reperibilità notturne, weekend, eccetera?
+
+11:27.380 --> 11:39.140
+Io lì in Afast l'ho, tra virgolette, rifiutata perché, non so, adesso non mi entusiasmava
+
+11:39.140 --> 11:46.280
+la cosa, nel senso che c'era altra gente che era più interessata di me a farla, ho detto
+
+11:46.280 --> 11:50.440
+va bene, se volete farla voi, fatela voi, non è che mi interessasse, diciamo.
+
+11:51.100 --> 11:57.720
+Nel caso dovesse esserci a farla, la farò, non la vedo come un grosso problema, voglio
+
+11:57.720 --> 12:01.620
+dire, cioè non è che sia uno scoglio.
+
+12:02.720 --> 12:03.380
+Ok, ok.
+
+12:03.940 --> 12:11.580
+Emanuele, io non ho domande tecniche per Marco perché ci ho già lavorato insieme, so che comunque
+
+12:11.580 --> 12:19.040
+la parte Java è preparato, non so se tu hai qualche altro tipo di domanda.
+
+12:19.040 --> 12:32.800
+Ciao Marco, non ho capito, ma c'è anche altre competenze tecniche, ma anche il .NET hai visto
+
+12:32.800 --> 12:34.660
+in maniera autonoma?
+
+12:34.660 --> 12:40.360
+No, .NET non l'ho mai visto, quindi stai parlando sempre comunque di un back-end, però fatto
+
+12:40.360 --> 12:48.040
+con C Sharp, non l'ho mai preso in mano, devo essere onesto, l'ho visto, l'ho visto, ma
+
+12:48.040 --> 12:50.540
+non l'ho mai preso in mano e ho utilizzato .NET.
+
+12:50.540 --> 12:55.040
+Ok, ok, ok, ok.
+
+12:55.040 --> 13:05.040
+L'ho già detto, ma tu saresti libero da quando?
+
+13:05.040 --> 13:15.040
+Di preciso non lo so nemmeno io, perché il mio capo area mi ha detto che vorrebbero
+
+13:15.040 --> 13:24.740
+liberarmi a fine febbraio, lui aveva detto che stava tentando di tirare per tenermi di
+
+13:24.740 --> 13:29.040
+più, però devo essere sincero, non te lo so dire nemmeno lì.
+
+13:29.040 --> 13:39.040
+Ma quando ti hanno detto che volevano liberarti, dopo tu hai chiesto per dove, cioè non ti
+
+13:39.040 --> 13:43.040
+hanno dato indicazioni su che fine avresti fatto?
+
+13:43.040 --> 13:50.040
+No, me l'hanno detto dall'oggi al domani, perché presumo che la sostanza è che non ci
+
+13:50.040 --> 13:57.040
+siano più soldi e quindi stanno tentando di tagliare il più possibile, uno di quelli che
+
+13:57.040 --> 14:04.040
+tagliano sono io, perché restavo diciamo solo a fare le cose magari che venivano su
+
+14:04.040 --> 14:12.040
+un po' più complesse e a quanto pare il carico di lavoro è diminuito e quindi mi, tra virgolette,
+
+14:12.040 --> 14:19.040
+tirano via dal progetto e tanto la M l'hanno mandato giù a Napoli, quindi non c'è più
+
+14:19.040 --> 14:26.040
+tanto carico di lavoro e le cose difficoltose le fa un altro e quindi diciamo che io ero al
+
+14:26.040 --> 14:28.040
+momento un po' in più nel budget.
+
+14:28.040 --> 14:29.040
+Marco poi immagino…
+
+14:29.040 --> 14:31.040
+Maieri…
+
+14:31.040 --> 14:33.040
+Maieri…
+
+14:33.040 --> 14:41.040
+Maieri lì è l'occorrenza per fix o attività evolutive?
+
+14:41.040 --> 14:49.040
+Allora io principalmente ero per attività evolutive fix sul codice, ma diciamo quando
+
+14:49.040 --> 14:56.040
+si presentavano cose che erano relativamente un po' più complesse di una semplice bug fixing
+
+14:56.040 --> 15:04.040
+oppure di una evolutiva abbastanza semplice. Eravamo di solito io e Zambonin che comunque
+
+15:04.040 --> 15:10.040
+Andrea conosce, che facevamo queste cose qua. Mentre per quanto riguarda le cose un
+
+15:10.040 --> 15:17.040
+po' più semplici, prima c'erano due o tre ragazzi, adesso due già dall'anno scorso
+
+15:17.040 --> 15:22.040
+e l'anno prima ancora li hanno mandati a qualche altra parte. E' rimasto uno che comunque
+
+15:22.040 --> 15:28.040
+è in carico anche delle altre cose, tra cui i rilasci che tengono. E diciamo che la parte
+
+15:28.040 --> 15:37.040
+D o di M, che sarebbe il classico AM di Afast nel multicanale, quello abbastanza semplice,
+
+15:37.040 --> 15:43.040
+per il 90% delle volte, l'hanno girato su Napoli. Quindi la sostanza è che se non arriva
+
+15:43.040 --> 15:51.040
+più niente di complesso in cui serviva il mio effort, diciamo, allora hanno pensato
+
+15:51.040 --> 15:55.040
+di tirarmi via, visto che non c'è budget. È quello che ho capito.
+
+15:55.040 --> 16:00.040
+Magari sarei anche stufo di fare la stessa cosa da anni e anni.
+
+16:00.040 --> 16:06.040
+No, allora, devo essere sincero, sì da un certo punto di vista, ma più che altro perché
+
+16:06.040 --> 16:12.040
+non arrivava più niente su di interessante. Cioè cominciavo un po' anche io dal mio punto
+
+16:12.040 --> 16:17.040
+di vista un po' a stufarmi, perché comunque le tecnologie non erano eccezionali da quel
+
+16:17.040 --> 16:24.040
+punto di vista lì. Ormai nell'ambiente mi ero preso a fare le cose, comunque ero
+
+16:24.040 --> 16:32.040
+abbastanza veloce. E il fatto che non arrivasse più niente in cui potessi, tra virgolette,
+
+16:32.040 --> 16:41.040
+divertirmi, sì, non era un bel periodo nemmeno per me. Va bene, ci può stare, capisco la
+
+16:41.040 --> 16:47.040
+scelta da parte loro e guardandola da esterno sono d'accordo.
+
+16:47.040 --> 17:00.040
+hai qualche domanda, curiosità su cui ti posso, diciamo, rispondere riguardo al progetto?
+
+17:00.040 --> 17:09.040
+Allora, sì, se vuoi un po' Andrea descrivermi qual è il progetto un po' che avete in carico,
+
+17:09.040 --> 17:12.040
+insomma, per capire un attimino anche voi.
+
+17:12.040 --> 17:18.040
+Allora, come Accenture abbiamo vinto una gara presso il banco BPM, una gara che si suddivide
+
+17:18.040 --> 17:27.040
+in diversi lotti. Il lotto in cui siamo interessati comprende otto applicazioni nell'ambito finanza
+
+17:27.040 --> 17:37.040
+che spaziano da tecnologie mainframe e tecnologie dipartimentali come il Java, come parte Java,
+
+17:37.040 --> 17:52.040
+e parte .net. Abbiamo, sono otto applicazioni, quindi stiamo cercando di capire, diciamo, la dimensione,
+
+17:52.040 --> 17:59.040
+il dimensionamento e il numero, diciamo, delle, il numero dei ticket e tutto quello che ci serve
+
+17:59.040 --> 18:08.040
+in sostanza per iniziare a staffare i vari team. Abbiamo fatto una proposta al cliente,
+
+18:08.040 --> 18:13.040
+abbiamo iniziato con un incontro di kickoff ieri e adesso stiamo iniziando con i primi incontri
+
+18:13.040 --> 18:19.040
+di KT tecnico perché, in sostanza, abbiamo vinto questa gara, quindi abbiamo un periodo di KT
+
+18:19.040 --> 18:28.040
+di quattro mesi per queste otto applicazioni, quindi fino a fine giugno e poi da partire dal primo
+
+18:28.040 --> 18:35.040
+di luglio diventiamo completamente, diciamo, operativi per la parte di AM.
+
+18:35.040 --> 18:37.040
+Ok.
+
+18:37.040 --> 18:42.040
+E abbiamo, se non ricordo male, Emanuele, anche delle microevolutive, abbiamo un set di microevolutive.
+
+18:46.040 --> 18:49.040
+Correggimi se sbaglio, Emanuele.
+
+18:49.040 --> 18:56.040
+Sì, è corretto, adesso capiremo. Ma te, Marco, dove ti piacerebbe lavorare?
+
+18:56.040 --> 18:59.040
+Su un ambito AM o progetti?
+
+19:01.040 --> 19:07.040
+Stavo pensando un pochettino anche qui, comunque adesso avendo qualche proposta,
+
+19:07.040 --> 19:09.040
+comunque le sto valutando un po' tutte.
+
+19:09.040 --> 19:20.040
+in ambito AM, quindi adesso non so quanto AM abbiate su il carico che avete qui e quindi
+
+19:20.040 --> 19:22.040
+si presume che le applicazioni siano già...
+
+19:22.040 --> 19:33.040
+Il primo periodo è 150% AM, sarà il primo anno dove impazziremo a analizzare, capire,
+
+19:33.040 --> 19:40.040
+acquisire know-how delle funzionalità, delle applicazioni, documentare il codice, andare
+
+19:40.040 --> 19:47.040
+ad analizzare anche cose che non ci hanno spiegato e dover impazzire a sistemare errori o segnalazioni
+
+19:47.040 --> 19:53.040
+che ci arrivano e che magari non abbiamo visto durante il KT il passaggio di consegne.
+
+19:54.040 --> 19:57.040
+Sarà un anno così, non te lo nascondo, ma sarà così.
+
+19:58.040 --> 19:59.040
+Quella è la verità.
+
+20:00.040 --> 20:08.040
+Magari nel mentre ci sarà qualche piccola microevolutiva, chi lo sa, forse anche qualcuna un po' più grossa,
+
+20:08.040 --> 20:17.040
+ma lì dovremmo strutturarci anche come team, come gruppo per soddisfare queste necessità.
+
+20:18.040 --> 20:26.040
+Però ecco, lo zoccolo duro deve capire, portarsi a casa più documentazione, più analisi
+
+20:26.040 --> 20:35.040
+e acquisire le più competenze possibili. Anche in autonomia, andiamo in qualche linea guida, ma dopo
+
+20:36.040 --> 20:43.040
+bisogna un attimino camminare con le proprie gambe a volte, non bisogna aspettare.
+
+20:43.040 --> 20:50.040
+Adesso non siamo nella posizione dove c'è una persona che ti dice, guarda, fai questa cosa qua, fai quell'altra,
+
+20:51.040 --> 20:56.040
+oppure c'è questo progetto da fare, ti do questa analisi e guarda, provo a vedere.
+
+20:57.040 --> 21:05.040
+Cioè, bisogna anche un attimo essere smart in questa fase qua e sapere che come obiettivo è portarsi a casa
+
+21:05.040 --> 21:14.040
+la competenza di quella particolare cosa e bisogna mettersi lì e stavarsi sulle maniche e lavorarci.
+
+21:15.040 --> 21:19.040
+Il primo periodo sarà così, sarà un po' complicato per tutti, ecco.
+
+21:20.040 --> 21:25.040
+Sì, quindi tu dici che comunque il primo periodo che racchiudi nell'idea di un anno
+
+21:26.040 --> 21:32.040
+sarà quello di capire, diciamo, le applicazioni che verranno in carico e farne dei bug fixing.
+
+21:32.040 --> 21:45.040
+Sì, ci saranno non solo bug fixing, ma anche dare delle risposte funzionali in ambito finanziario
+
+21:46.040 --> 21:53.040
+e in base all'applicazione che ci faranno seguire.
+
+21:53.040 --> 22:07.040
+Quindi la parte difficile è anche quella di acquisire non solo competenze tecniche, perché magari, non so,
+
+22:08.040 --> 22:16.040
+c'è una fase che va in errore, analizzi logo e vedere perché la sistemi è morta, ma capire tutto il contesto che ci sta dietro
+
+22:16.040 --> 22:24.040
+di perché quello che ha mandato quel dato lì è mandato così e cosa nel frattempo non ha funzionato,
+
+22:25.040 --> 22:30.040
+oppure dare una giustificazione anche funzionale della cosa.
+
+22:30.040 --> 22:35.040
+non so, ci arriverà la segnalazione perché vedo dieci a posto di otto e allora bisognerà
+
+22:37.040 --> 22:43.040
+riuscire ad acquisire tutte le varie motivazioni e il perché un processo ha funzionato in un certo modo.
+
+22:43.040 --> 22:53.040
+Quindi non è solo l'attesa dell'errore, ma è anche analizzare quello che funziona e che non si spacca
+
+22:53.040 --> 22:59.040
+e capire perché fa così, per riuscire poi a rispondere.
+
+23:00.040 --> 23:06.040
+Quindi comunque ad acquisire conoscenza del codice che arriva su cui dobbiamo, tra virgolette, lavorare e farne capatini.
+
+23:06.040 --> 23:25.040
+Esatto, in questo momento nessuno sa nulla, quindi partiamo tutti da zar e dovremmo mettere insomma in piedi una squadra e qualche esterno che già lavora sul cliente forse lo prendiamo.
+
+23:25.040 --> 23:36.040
+Adesso capiremo termini di Compagnia Bella e per il resto insomma dobbiamo arrangiarci.
+
+23:37.040 --> 23:44.040
+Ok, e come data di partenza dei lavori, cosa avevate in mente voi?
+
+23:45.040 --> 23:50.040
+Abbiamo messaggio di consegna e questi quattro mesi si parte a luglio.
+
+23:50.040 --> 23:59.040
+Luglio agosto saranno dei mesi caldi, oltre che riguarda il clino ma anche la morata.
+
+24:03.040 --> 24:06.040
+Va bene, va bene, ho capito un po' anche voi il progetto.
+
+24:07.040 --> 24:08.040
+Bene.
+
+24:08.040 --> 24:17.040
+Cioè, io ho massima trasparenza, non è che voglio raccontarti le cose finte oppure questa è la verità.
+
+24:17.040 --> 24:21.040
+Quindi insomma ci sarà un po' da impazzire il primo periodo come in tutte le partenze.
+
+24:22.040 --> 24:29.040
+E man mano che impareremo sarà sempre più facile.
+
+24:29.040 --> 24:37.040
+Sì, sì, beh, certo, certo, ovviamente all'inizio c'è sempre uno scalino più grande da dover saltare.
+
+24:37.040 --> 24:47.040
+No, io non ho altre domande Emanuele, non so tu.
+
+24:47.040 --> 24:59.040
+No, no, anch'io anche perché è un'altra cosa per avanti, però ci riaggiorniamo.
+
+24:59.040 --> 25:08.040
+Se tu Marco hai news o che vuoi approfondire ulteriormente, scrivici senza problemi.
+
+25:08.040 --> 25:14.040
+Poi intanto noi stiamo sondando il terreno un po' di qua e di là.
+
+25:14.040 --> 25:22.040
+Appena avremo anche carta bianca su capire come procedere, capiremo anche come muoverci anche sui vari team.
+
+25:22.040 --> 25:33.040
+Insomma, dobbiamo finire tutti gli incontri con i clienti, quindi non sappiamo ancora quanto sarà il peso effettivo che ci servirà di competenze già,
+
+25:33.040 --> 25:42.040
+piuttosto che di .NET o di COBOL, perché non abbiamo ancora chiara questa visione.
+
+25:45.040 --> 25:50.040
+Finiremo gli incontri diciamo a metà della settimana prossima, tempo di organizzare un po' le idee.
+
+25:50.040 --> 25:55.040
+Quindi diciamo che entro il fine mese tendenzialmente avremo una fotografia più chiara.
+
+25:57.040 --> 26:00.040
+Però intanto stiamo sondando un po' di qua e di là.
+
+26:01.040 --> 26:04.040
+Sì, sì, va bene. Capisco pienamente.
+
+26:05.040 --> 26:06.040
+Ecco.
+
+26:07.040 --> 26:17.040
+Però, insomma, massima trasparenza se già ci diciamo che non mi interessa perché voglio nessun problema.
+
+26:17.040 --> 26:24.040
+È importante essere chiari fin da subito perché, insomma, serve portare anche a bordo persone motivate e che hanno voglia.
+
+26:24.040 --> 26:35.040
+Anche se partiamo già con qualcosa che non piace fare, non sarebbe produttivo per nessuna delle due parti, no?
+
+26:35.040 --> 26:36.040
+Certo.
+
+26:36.040 --> 26:44.040
+No, al momento dico non escludo, non sto escludendo nessuna strada, nel senso che non ho ancora nemmeno io le idee chiare,
+
+26:44.040 --> 26:54.040
+anche perché onestamente non me le hanno rese chiare, nel senso che non sanno nemmeno quando dovrò terminare in linea teorica il mio rapporto con il mio team.
+
+26:54.040 --> 26:56.040
+Certo.
+
+26:57.040 --> 27:07.040
+Quindi, insomma, ci aggiorneremo entrambi, dai, quando avremo entrambi qualche informazione in più ci rinagliamo a vicenda.
+
+27:08.040 --> 27:11.040
+Sì, sì, assolutamente non c'è problema.
+
+27:11.040 --> 27:13.040
+Perfetto.
+
+27:13.040 --> 27:14.040
+Perfetto.
+
+27:14.040 --> 27:15.040
+Grazie mille intanto.
+
+27:15.040 --> 27:16.040
+Grazie Marco.
+
+27:16.040 --> 27:17.040
+Va bene, Manuel.
+
+27:17.040 --> 27:18.040
+È stato un piacere.
+
+27:18.040 --> 27:19.040
+Altrettanto, Andrea.
+
+27:19.040 --> 27:20.040
+Ciao, ciao, ciao, ciao.
+
+27:20.040 --> 27:21.040
+Ciao.
+
+27:21.040 --> 27:22.040
+Ciao.
+
+27:22.040 --> 27:24.040
+Ciao.
+
+27:24.040 --> 27:25.040
+Ciao.
+
+27:25.040 --> 27:26.040
+Ciao.
+
+27:26.040 --> 27:27.040
+Ciao.
+
+27:27.040 --> 27:28.040
+Ciao.
+
+27:28.040 --> 27:29.040
+Ciao.
+
+27:29.040 --> 27:30.040
+Ciao.
+
+27:30.040 --> 27:31.040
+Ciao.
+
+27:31.040 --> 27:32.040
+Ciao.
+
+27:32.040 --> 27:33.040
+Ciao.
+
+27:33.040 --> 27:34.040
+Ciao.
+
+27:34.040 --> 27:35.040
+Ciao.
+
+27:35.040 --> 27:36.040
+Ciao.
+
+27:36.040 --> 27:37.040
+Ciao.
+
+27:37.040 --> 27:38.040
+Ciao.
+
+27:38.040 --> 27:39.040
+Ciao.
+
+27:39.040 --> 27:40.040
+Ciao.
+
